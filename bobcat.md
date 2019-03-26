@@ -1,6 +1,6 @@
 ---
 title: Bobcat
-habitat:forrest
+habitat: forrest
 size: medium
 classification: mammal
 endangered: false
