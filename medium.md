@@ -3,7 +3,7 @@ title: Medium Animals
 layout: resultspage
 ---
 
-<div>
+
 	
 {% for p in site.pages %}
 	{% if p.size=="medium" %}
@@ -20,4 +20,4 @@ layout: resultspage
 	   {% endif %} 
 {% endfor %}
 
-</div>
+
