@@ -5,14 +5,14 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Title goes here</title>
-	<meta name="description" content="{{ page.description }}">
+	<meta name="description" content="">
 	
 	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Load styles -->
 	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+	<link rel="stylesheet" href="css/sitewide.css">
 	
 	<!-- Webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
@@ -23,24 +23,58 @@
 
 	<!-- Page content typically goes inside the container -->
 	<div class="container">
-
-		<!-- global navbar -->
-		<nav class="global-nav">
-	        <ul>
-				<li><a href="{{ site.baseurl }}/">Home</a></li>
-			</ul>
-		</nav>
-
-        <h1>{{ page.title }}</h1>
         
-        <img src="{{ site.baseurl}}{{ page.image }}" alt="photo">
-        <!-- under the approach for this example, image paths must start with a slash -->
-
-        <p>Photographer: {{ page.photographer }}</p>
-
-        {{ content }}
+    <div class="pagetitle medanimals">
+        <h1>Medium Animals</h1>
+    </div>
+    
+    <div class="grid">
+        
+    <div class="animalimg">
+        <img src="img/animalpic.png">    
+    </div>
+    
+    <div class="animalname deer">
+        <h3>White Tailed Deer</h3>    
+    </div>
+        
+     <div class="animalimg">
+        <img src="img/animalpic.png">    
+    </div>
+    
+    <div class="animalname boar">
+        <h3>Wild Boar</h3>    
+    </div>
+    
+     <div class="animalimg">
+        <img src="img/animalpic.png">    
+    </div>
+    
+    <div class="animalname bobcat">
+        <h3>Bobcat</h3>    
+    </div>
+        
+     <div class="animalimg">
+        <img src="img/animalpic.png">    
+    </div>
+    
+    <div class="animalname wolf">
+        <h3>Eastern Wolf</h3>    
+    </div>
+        
+     <div class="animalimg">
+        <img src="img/animalpic.png">    
+    </div>
+    
+    <div class="animalname turkey">
+        <h3>Wild Turkey</h3>    
+    </div>
 		
+
+	</div>	
+
 	</div><!-- end container -->
 	
 </body>
 </html>
+
