@@ -5,7 +5,7 @@ size: medium
 classification: mammal
 endangered: false
 predator: true 
-image: /img/agent.jpg
+image: /img/bobcatprofilepic.png
 ---
 
 
