@@ -27,25 +27,27 @@
     </div>
     
     <div class="grid">
-        
-    <div class="animalimg">
-        <img src="img/animalpic.png">    
-    </div>
+	    
+	    
+	    
+    {% for p in site.pages %}
     
     <div class="animalname deer">
-        <h3>White Tailed Deer</h3>    
+        <h3>{{ p.title }}</h3>    
     </div>
         
      <div class="animalimg">
-        <img src="img/animalpic.png">    
+		<a href="{{ site.baseurl }}{{ p.url }}">
+        		<img src="/web1-categories/{{ p.image }}">  
+	     </a>
     </div>
+	    
+{% endfor %}
     
-   
-		
+	
+   	</div> <!-- end grid -->	
 
-	</div>	
-
-	</div>
+</div> <!-- end container --> 
 	
 </body>
 </html>
