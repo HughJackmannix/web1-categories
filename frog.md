@@ -5,7 +5,7 @@ size: miniscule
 classification: amphibian
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/frogprofile.png
 ---
 
 
