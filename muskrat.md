@@ -5,7 +5,7 @@ size: miniscule
 classification: mammal
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/muskratprofile.png
 ---
 
 The muskrat (Ondatra zibethicus), the only species in genus Ondatra and tribe Ondatrini, is a medium-sized semiaquatic rodent native to North America and is an introduced species in parts of Europe, Asia, and South America. The muskrat is found in wetlands over a wide range of climates and habitats. It has important effects on the ecology of wetlands,and is a resource of food and fur for humans.
