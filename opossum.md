@@ -5,7 +5,7 @@ size: small
 classification: mammal
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/opossumprofile.png
 ---
 
 The opossum is a marsupial of the order Didelphimorphia endemic to the Americas. The largest order of marsupials in the Western Hemisphere, it comprises 103 or more species in 19 genera. Opossums originated in South America and entered North America in the Great American Interchange following the connection of the two continents. Their unspecialized biology, flexible diet, and reproductive habits make them successful colonizers and survivors in diverse locations and conditions.
