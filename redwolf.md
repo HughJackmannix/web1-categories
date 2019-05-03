@@ -1,7 +1,7 @@
 ---
 title: Red Wolf
 habitat: forrest
-size: medium
+size: large
 classification: mammal
 endangered: true
 predator: true 
