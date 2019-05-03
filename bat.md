@@ -3,7 +3,7 @@ title: Indiana Bat
 habitat: forrest
 size: small
 classification: mammal
-endangered: false
+endangered: red
 predator: false 
 image: /img/bobcatprofilepic.png
 ---
