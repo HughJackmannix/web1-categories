@@ -28,7 +28,7 @@
     
     <div class="grid">
 	    
-	    {% for p in site.pages %}
+	    {% for p in site.pages %} <!-- START BOBCAT -->
 	{% if p.size=="medium" %}
    
     <div class="animalname bobcat">
@@ -41,7 +41,22 @@
 	   </a>
     </div>
 	   {% endif %} 
-{% endfor %}
+{% endfor %} <!-- END BOBCAT -->
+	    
+	  {% for p in site.pages %} <!-- START WILD BOAR -->
+	{% if p.size=="medium" %}
+   
+    <div class="animalname boar">
+        <h3>{{ p.title }}</h3>    
+    </div>
+        
+    <div class="animalimg">
+	<a href="{{ site.baseurl }}{{ p.url }}">
+        	<img src="/web1-categories/{{ p.image }}">  
+	   </a>
+    </div>
+	   {% endif %} 
+{% endfor %} <!-- END WILD BOAR -->
 	    
 	    
     
