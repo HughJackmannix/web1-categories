@@ -3,7 +3,7 @@ title: Red Wolf
 habitat: forrest
 size: large
 classification: mammal
-endangered: true
+endangered: red
 predator: blue 
 image: /img/bobcatprofilepic.png
 ---
