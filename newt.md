@@ -1,7 +1,7 @@
 ---
 title: Eastern Newt
 habitat: Mesic
-size: miniscule
+size: miniscule 
 classification: amphibian 
 endangered: false
 predator: false 
