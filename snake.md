@@ -5,7 +5,7 @@ size: small
 classification: reptile
 endangered: false
 predator: blue 
-image: /img/bobcatprofilepic.png
+image: /img/ratsnakeprofile.png
 ---
 
 Additional common names for the eastern rat snake include black rat snake, pilot snake, pilot black snake,chicken snake; and in Florida, yellow rat snake and Everglades rat snake. Pantherophis alleghaniensis is found in the United States east of the Apalachicola River in Florida, east of the Chattahoochee River in Georgia, east of the Appalachian Mountains, north to southeastern New York and western Vermont, eastern Pennsylvania, Maryland, South Carolina, North Carolina, Georgia, south to the Florida Keys. In the Florida Panhandle, it readily hybridizes with the gray rat snake (Pantherophis spiloides). Adult snakes commonly measure 91.4 to 183 cm (36.0 to 72.0 in) in total length (including tail), with a few exceeding 200 cm (79 in).The longest recorded total length to date is 256.5 cm (101.0 in).
