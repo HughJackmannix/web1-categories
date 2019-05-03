@@ -5,7 +5,7 @@ size: large
 classification: mammal
 endangered: false
 predator: blue 
-image: /img/bobcatprofilepic.png
+image: /img/graywolfprofile.png
 ---
 
 
