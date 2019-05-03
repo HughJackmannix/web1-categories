@@ -5,7 +5,7 @@ size: small
 classification: mammal
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/beaverprofile.png
 ---
 
 
