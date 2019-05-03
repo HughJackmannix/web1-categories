@@ -1,5 +1,5 @@
 ---
 title: Small Animals
-layout: small.html
+layout: small
 ---
 
