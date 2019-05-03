@@ -4,7 +4,7 @@
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Medium Animals</title>
+	<title>Endangered Animals</title>
 	<meta name="description" content="">
 	
 	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
@@ -29,7 +29,7 @@
     <div class="grid">
 	    
 	{% for p in site.pages %} <!-- START BOBCAT -->
-	{% if p.endangered=="true" %}
+	{% if p.endangered=="red" %}
    
     		<div class="animalname bobcat">
         		<h3>{{ p.title }}</h3>    
