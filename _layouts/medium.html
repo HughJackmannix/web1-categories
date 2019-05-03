@@ -75,6 +75,22 @@
 	{% endif %} 
 	{% endfor %} <!-- END EASTERN WOLF -->
 	    
+	{% for p in site.pages %} <!-- START WILD TURKEY -->
+	{% if p.size=="medium" %}
+   
+    		<div class="animalname turkey">
+        		<h3>{{ p.title }}</h3>    
+    		</div>
+        
+    		<div class="animalimg">
+			<a href="{{ site.baseurl }}{{ p.url }}">
+        			<img src="/web1-categories/{{ p.image }}">  
+	   		</a>
+    		</div>
+	    
+	{% endif %} 
+	{% endfor %} <!-- END WILD TURKEY -->
+	    
 	    
     
     
