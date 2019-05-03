@@ -1,0 +1,5 @@
+---
+title: Mammals
+layout: mammal
+
+---
