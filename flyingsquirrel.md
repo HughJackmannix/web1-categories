@@ -3,7 +3,7 @@ title: Southern Flying Squirrel
 habitat: forrest
 size: small
 classification: mammal
-endangered: true
+endangered: red
 predator: false 
 image: /img/bobcatprofilepic.png
 ---
