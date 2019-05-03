@@ -5,7 +5,7 @@ size: medium
 classification: bird
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/turkeyprofile.png
 ---
 
 
