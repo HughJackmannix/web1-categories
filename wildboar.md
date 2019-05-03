@@ -1,5 +1,5 @@
 ---
-title: Plumbing store
+title: Wild Boar
 photographer: Jack Delano
 location: Northeast
 period: 1940s
