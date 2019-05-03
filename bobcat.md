@@ -4,7 +4,7 @@ habitat: forrest
 size: medium
 classification: mammal
 endangered: false
-predator: true 
+predator: blue 
 image: /img/bobcatprofilepic.png
 ---
 
