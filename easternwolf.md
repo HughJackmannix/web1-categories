@@ -1,7 +1,7 @@
 ---
 title: Eastern Wolf
 habitat: forrest
-size: medium
+size: large
 classification: mammal
 endangered: false
 predator: true 
