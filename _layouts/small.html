@@ -44,6 +44,22 @@
 	{% endif %} 
 	{% endfor %} <!-- END GRAY FOX -->
 	    
+	{% for p in site.pages %} <!-- START RACCOON -->
+	{% if p.size=="small" %}
+   
+    		<div class="animalname raccoon">
+        		<h3>{{ p.title }}</h3>    
+    		</div>
+        
+    		<div class="animalimg">
+			<a href="{{ site.baseurl }}{{ p.url }}">
+        			<img src="/web1-categories/{{ p.image }}">  
+	   		</a>
+    		</div>
+	    
+	{% endif %} 
+	{% endfor %} <!-- END RACCOON -->
+	    
 	
 	    
 	    
