@@ -1,0 +1,3 @@
+---
+title: Amphibians
+layout: amphibian
