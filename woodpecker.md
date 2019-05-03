@@ -3,7 +3,7 @@ title: Red Cockaded Woodpecker
 habitat: forrest
 size: small
 classification: bird
-endangered: true
+endangered: red
 predator: false 
 image: /img/bobcatprofilepic.png
 ---
