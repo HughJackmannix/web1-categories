@@ -1,59 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+title: Endangered Animals
+layout: endangered
 
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Medium Animals</title>
-	<meta name="description" content="">
-	
-	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- Load styles -->
-	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="css/sitewide.css">
-	
-	<!-- Webfonts -->
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-
-</head>
-<body class="homepage">
-
-<div class="container">
-        
-    <div class="pagetitle medanimals">
-        <h1>Endangered Animals</h1>
-    </div>
-    
-    <div class="grid">
-	    
-	{% for p in site.pages %} <!-- START BOBCAT -->
-	{% if p.endangered=="true" %}
-   
-    		<div class="animalname bobcat">
-        		<h3>{{ p.title }}</h3>    
-    		</div>
-        
-    		<div class="animalimg">
-			<a href="{{ site.baseurl }}{{ p.url }}">
-        			<img src="/web1-categories/{{ p.image }}">  
-	   		</a>
-    		</div>
-	    
-	{% endif %} 
-	{% endfor %} <!-- END BOBCAT -->
-	    
-	
-	    
-    
-    
-	
-   	</div> <!-- end grid -->	
-
-</div> <!-- end container --> 
-	
-</body>
-</html>
+---
 
 
