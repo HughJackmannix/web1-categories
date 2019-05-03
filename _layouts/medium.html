@@ -28,35 +28,36 @@
     
     <div class="grid">
 	    
-	    {% for p in site.pages %} <!-- START BOBCAT -->
+	{% for p in site.pages %} <!-- START BOBCAT -->
 	{% if p.size=="medium" %}
    
-    <div class="animalname bobcat">
-        <h3>{{ p.title }}</h3>    
-    </div>
+    		<div class="animalname bobcat">
+        		<h3>{{ p.title }}</h3>    
+    		</div>
         
-    <div class="animalimg">
-	<a href="{{ site.baseurl }}{{ p.url }}">
-        	<img src="/web1-categories/{{ p.image }}">  
-	   </a>
-    </div>
-	   {% endif %} 
-{% endfor %} <!-- END BOBCAT -->
+    		<div class="animalimg">
+			<a href="{{ site.baseurl }}{{ p.url }}">
+        			<img src="/web1-categories/{{ p.image }}">  
+	   		</a>
+    		</div>
 	    
-	  {% for p in site.pages %} <!-- START WILD BOAR -->
+	{% endif %} 
+	{% endfor %} <!-- END BOBCAT -->
+	    
+	{% for p in site.pages %} <!-- START WILD BOAR -->
 	{% if p.size=="medium" %}
    
-    <div class="animalname boar">
-        <h3>{{ p.title }}</h3>    
-    </div>
+    		<div class="animalname boar">
+        		<h3>{{ p.title }}</h3>    
+    		</div>
         
-    <div class="animalimg">
-	<a href="{{ site.baseurl }}{{ p.url }}">
-        	<img src="/web1-categories/{{ p.image }}">  
-	   </a>
-    </div>
-	   {% endif %} 
-{% endfor %} <!-- END WILD BOAR -->
+    		<div class="animalimg">
+			<a href="{{ site.baseurl }}{{ p.url }}">
+        			<img src="/web1-categories/{{ p.image }}">  
+	   		</a>
+    		</div>
+	{% endif %} 
+	{% endfor %} <!-- END WILD BOAR -->
 	    
 	    
     
