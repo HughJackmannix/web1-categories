@@ -5,7 +5,7 @@ size: medium
 classification: mammal
 endangered: false
 predator: false 
-image: /img/bobcatprofilepic.png
+image: /img/boarprofile.png
 ---
 
 
