@@ -4,7 +4,7 @@ habitat: mesic
 size: medium
 classification: bird
 endangered: false
-predator: true 
+predator: blue 
 image: /img/bobcatprofilepic.png
 ---
 
