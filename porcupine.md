@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: false 
 image: /img/porcupineprofile.png
+layout: infopage
 ---
 
 Porcupines are rodents with a coat of sharp spines, or quills, that protect against predators. The term covers two families of animals, the Old World porcupines of family Hystricidae, and the New World porcupines of family Erethizontidae. Both families belong to the infraorder Hystricognathi within the profoundly diverse order Rodentia and display superficially similar coats of quills: despite this, the two groups are distinct from each other and are not closely related to each other within the Hystricognathi.
