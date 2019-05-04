@@ -81,6 +81,10 @@ body {
 	grid-template-columns: 1fr 1fr;
 }
 
+.bobcat {
+	grid-row: 2/3;
+}
+	
 
 
 
