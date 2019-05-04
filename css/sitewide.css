@@ -138,7 +138,7 @@ a {
 	
 
 
-/* MY SHIT */
+/* LIST PAGE */
 .grid {
 	padding-top: 4em;
 	padding-bottom: 6em;
@@ -165,6 +165,41 @@ h3 {
 	text-align: center;
 	font-family: 'Libre Franklin', sans-serif;
 	font-size: 30px;
+}
+
+/* ------------------------------------------------- */
+
+media (max-width: 332px) {
+
+.grid {
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 1em;
+	padding-right: 1em;
+	display: block;
+	
+}
+
+.animalname {
+	grid-column: 1/2;
+	
+}
+
+h3 {
+	font-size: 20px;
+	line-height: 55px;
+	font-family: 'Arbutus Slab', serif;
+	text-align: center;
+	
+}
+
+.pagetitle {
+	text-align: center;
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 30px;
+}
+
+	
 }
 
 /*START INFOPAGE*/ 
