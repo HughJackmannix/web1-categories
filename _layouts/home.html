@@ -5,17 +5,24 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Title goes here</title>
-	<meta name="description" content="{{ page.description }}">
+	<meta name="description" content="">
 	
 	<!-- Enable responsive layouts; tell browsers not to shrink pages to fit small screens -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Load styles -->
 	<!-- For production, combine all of the stylesheets -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/sitewide.css">
+	<link rel="stylesheet" href="css/sitewide.css">
 	
 	<!-- Webfonts -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+	
+	<link href="https://fonts.googleapis.com/css?family=Arbutus+Slab" rel="stylesheet"> 
+	
+	<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:900" rel="stylesheet">
+
 
 </head>
 <body class="homepage">
@@ -24,33 +31,43 @@
 	<!-- Page content typically goes inside the container -->
 	<div class="container">
 
-
-        <h1>FSA/OWI photos</h1>
+        <!---
+        <div class="homeimage">
+            <img src="img/bison.png">
+        </div> -->
         
+        <div class="heading">
+            <h1>National Park Service:</h1>
+        </div>
         
+        <div class="projecttitle">
+            <h1>Animals of Appalachia</h1>
+        </div>
         
-        <section class="listing">
-
-            <h4>Every page</h4>
+        <div class="find">
+            <h2>Find an Animal</h2>
+        </div>
+        
+        <div class="links options">
             <ul>
-            {% for p in site.pages %}
-                <li>
-                    <a href="{{ site.baseurl }}{{ p.url }}">
-                      {{ p.title }}
-                    </a>
-                </li>
-            {% endfor %}    
+               <li><a href="">Large</a></li>
+                <li><a href="">Medium</a></li>
+                <li><a href="">Small</a></li>
+                <li><a href="">Forest</a></li>
+                <li><a href="">Mesic</a></li>
+                <li><a href="">Mammal</a></li>
+                <li><a href="">Bird</a></li>
+                <li><a href="">Amphibian</a></li>
+                <li><a href="">Reptile</a></li>
+                <li><a href="">Predators</a></li>
+                <li><a href="">Endangered</a></li>
             </ul>
-            
-        </section>
+        </div>
         
-        
-        
-
-   
         
 
 	</div><!-- end container -->
 	
 </body>
 </html>
+
