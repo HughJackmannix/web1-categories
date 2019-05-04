@@ -83,7 +83,7 @@ body {
 }
 
 .animalimg {
-    grid-column: 1/2;
+    grid-column: 2/3;
     padding-top: 10px;
     padding-bottom: 10px;
 }
