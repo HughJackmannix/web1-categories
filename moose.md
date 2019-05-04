@@ -5,7 +5,7 @@ size: large
 classification: mammal
 endangered: false
 predator: false 
-image: /img/muskratprofile.png
+image: /img/mooseprofile.png
 layout: infopage
 ---
 
