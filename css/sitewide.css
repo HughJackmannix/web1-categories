@@ -82,17 +82,7 @@ body {
 	grid-gap: 1em;
 }
 
-.animalimg {
-    grid-column: 2/3;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 
-.animalname {
-    grid-column: 2/3;
-    padding-top: 50px;  
-}
-	
 
 
 
