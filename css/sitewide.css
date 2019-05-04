@@ -41,41 +41,7 @@ body {
 	padding-right: 5em;
 }
 
-/* listings of photos */
-.listing {
-	margin: 0 0 2em 0;
-	padding: 2em;
-	background: #eee;
-}
 
-.listing ul {
-	max-width: 25em;
-	padding: 0;
-	list-style-type: none;
-}
-
-.listing li {
-	border-top: 1px solid #ccc;
-}
-
-.listing a {
-	display: block;
-	padding: 0.5em 0;
-	text-decoration: none;
-}
-
-
-/* listings with image thumbnails */
-.image-listing ul {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
-	grid-gap: 1em;
-	max-width: 100%;
-}
-
-.image-listing li {
-	border: none;
-}
 
 /* HOMEPAGE */
 
@@ -118,6 +84,54 @@ a {
     font-size: 25px;
     font-family: 'Arbutus Slab', serif;
 }
+
+/* ---------------------------------------------------- */
+
+@media (max-width: 332px) {
+
+.homecontainer {
+	padding: 1em;
+}
+
+.heading {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.projecttitle {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    color: #ffffff;
+	line-height: 40px;
+	margin-top: 80px;
+}
+
+.find {
+    padding-top: 1em;
+    color: #ffffff;
+    font-family: 'Libre Franklin', sans-serif;
+	text-size: 17px;
+	margin-top: 80px;
+}
+
+ul {
+    list-style-type: none;
+    line-height: 6em;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Arbutus Slab', serif;
+}
+
+}
+	
 
 
 /* MY SHIT */
@@ -181,19 +195,3 @@ h3 {
 
 
 
-/* ------------------------------------------------------------ */
-/* media query containing styles for larger screens */
-@media (min-width: 720px) {
-	
-	/* container on larger screens */
-	.container {
-		width: 90%;
-		max-width: 1200px;
-		margin: 2em;
-		margin-right: auto;
-		margin-left: auto;
-		padding: 2em;
-		
-	}
-
-} /* end media query */
