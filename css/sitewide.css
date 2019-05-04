@@ -232,9 +232,33 @@ h3 {
 	line-height: 35px;
 }
 
+/* ------------------------------------------------ */
 
+@media (max-width: 332px) {
+	
+infocontainer {
+	display: block;
+	
+	padding: 1.5em;
+	padding-right: 5em;
+}
 
+.name {
+	font-family: 'Arbutus Slab', serif;
+	font-size: 30px;
+}
 
+.image {
+	
+	padding-right: 2em;
+}
+
+.content {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 16px;
+	line-height: 35px;
+}
+}
 
 
 
