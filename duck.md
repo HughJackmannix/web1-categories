@@ -6,6 +6,7 @@ classification: bird
 endangered: false
 predator: false 
 image: /img/duckprofile.png
+layout: infopage
 ---
 
 The wood duck or Carolina duck (Aix sponsa) is a species of perching duck found in North America. It is one of the most colorful North American waterfowl.The wood duck is a small-sized perching duck. A typical adult is from 47 to 54 cm (19 to 21 in) in length with a wingspan of between 66 to 73 cm (26 to 29 in). This is about three-quarters of the length of an adult mallard. It shares its genus with the Asian Mandarin duck (Aix galericulata).
