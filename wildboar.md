@@ -5,7 +5,7 @@ size: medium
 classification: mammal
 endangered: false
 predator: false 
-image: /img/boarprofile.png
+image: /img/boar2.png
 layout: infopage
 ---
 
