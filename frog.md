@@ -6,6 +6,7 @@ classification: amphibian
 endangered: false
 predator: false 
 image: /img/frogprofile.png
+layout: infopage
 ---
 
 
