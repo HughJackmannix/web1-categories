@@ -5,7 +5,7 @@ size: medium
 classification: reptile
 endangered: false
 predator: false 
-image: /img/snappingturtleprofile.png
+image: /img/snappingturtuleprofile.png
 layout: infopage
 ---
 
