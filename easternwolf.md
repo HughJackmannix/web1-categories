@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: blue 
 image: /img/graywolfprofile.png
+layout: infopage
 ---
 
 
