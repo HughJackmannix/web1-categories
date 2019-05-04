@@ -79,7 +79,7 @@ body {
 .grid {
 	padding-top: 6em;
 	padding-bottom: 6em;
-	padding-left: 9em;
+	padding-left: 12em;
 	padding-right: 1em;
 	display: grid;
 	grid-template-columns: .25fr 336px;
