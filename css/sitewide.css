@@ -31,7 +31,6 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
-	background-image: url(../img/bison.png);
 	
 }
 
@@ -79,6 +78,10 @@ body {
 }
 
 /* HOMEPAGE */
+
+.mainhomepage {
+	background-image: url(../img/bison.png);
+}
 
 .homecontainer {
 	padding: 1em;
