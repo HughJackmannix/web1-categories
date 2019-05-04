@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: blue 
 image: /img/grayfoxprofile.png
+layout: infopage
 ---
 
 The gray fox (Urocyon cinereoargenteus), or grey fox, is an omnivorous mammal of the family Canidae, widespread throughout North America and Central America. This species and its only congener, the diminutive Channel Island fox (Urocyon littoralis), are the only living members of the genus Urocyon, which is considered to be the most basal of the living canids. Though it was once the most common fox in the eastern United States, and still is found there, human advancement and deforestation allowed the red fox to become more dominant. The Pacific States still have the gray fox as a dominant. It is the only American canid that can climb trees. Its specific epithet cinereoargenteus means "ashen silver".
