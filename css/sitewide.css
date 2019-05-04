@@ -244,6 +244,7 @@ h3 {
 .name {
 	font-family: 'Arbutus Slab', serif;
 	font-size: 30px;
+	text-align: center;
 }
 
 .image {
