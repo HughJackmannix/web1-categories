@@ -2,7 +2,7 @@
 title: Common Snapping Turtle
 habitat: mesic
 size: medium
-classification: amphibian
+classification: reptile
 endangered: false
 predator: false 
 image: /img/snappingturtleprofile.png
