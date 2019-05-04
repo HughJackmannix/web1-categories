@@ -79,7 +79,7 @@ body {
 .grid {
 	padding: 6em;
 	display: grid;
-	grid-template-columns: .25fr 1fr;
+	grid-template-columns: .25fr 336px;
 	grid-gap: 1em;
 }
 
