@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: false 
 image: /img/beaverprofile.png
+layout: infopage
 ---
 
 
