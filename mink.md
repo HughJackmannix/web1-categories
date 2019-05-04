@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: blue 
 image: /img/minkprofile.png
+layout: infopage
 ---
 
 Mink are dark-colored, semiaquatic, carnivorous mammals of the genera Neovison and Mustela, and part of the family Mustelidae which also includes weasels, otters and ferrets. There are two extant species referred to as "mink": the American mink and the European mink. The extinct sea mink is related to the American mink, but was much larger. The American mink is larger and more adaptable than the European mink but, due to variations in size, an individual mink usually cannot be determined as European or American with certainty without looking at the skeleton; however, all European mink have a large white patch on their upper lip, whereas only some American mink have this marking: therefore, any mink without the patch is certainly of the American species. Taxonomically, both American and European mink were placed in the same genus Mustela, but most recently, the American mink has been reclassified as belonging to its own genus, Neovison.
