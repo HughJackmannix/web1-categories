@@ -91,9 +91,10 @@ body {
 }
 
 h3 {
-	font-size: 80px;
+	font-size: 60px;
 	line-height: 80px;
 	font-family: 'Bitter', serif;
+	text-align: right;
 }
 
 .pagetitle {
