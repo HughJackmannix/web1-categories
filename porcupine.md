@@ -5,7 +5,7 @@ size: small
 classification: mammal
 endangered: false
 predator: false 
-image: /img/porcupineprofile.png
+image: /img/porc2.png
 layout: infopage
 ---
 
