@@ -76,6 +76,7 @@ body {
 	border: none;
 }
 
+/* MY SHIT */
 .grid {
 	padding-top: 4em;
 	padding-bottom: 6em;
@@ -102,9 +103,23 @@ h3 {
 	text-align: center;
 	font-family: 'Libre Franklin', sans-serif;
 	font-size: 30px;
-
-
 }
+
+/* START INFOPAGE */
+.profilegrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.animalprofilepic {
+    grid-column: 1/2;
+}
+
+.description {
+    grid-column: 2/4;
+    padding-left: 20px;
+}
+
 
 
 
