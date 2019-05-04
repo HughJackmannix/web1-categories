@@ -5,7 +5,7 @@ size: medium
 classification: mammal
 endangered: false
 predator: blue 
-image: bobcatprofilepic.png
+image: img/bobcatprofile.png
 layout: infopage
 ---
 
