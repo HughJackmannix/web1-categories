@@ -110,20 +110,23 @@ h3 {
 .infocontainer {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr; 
+	padding: 1.5em;
 }
 
 .name {
 	font-family: 'Arbutus Slab', serif;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 .image {
-	
+	grid-column: 1/2;
 }
 
 .content {
 	font-family: 'Libre Baskerville', serif;
 	font-size: 16px;
+	grid-column: 2/4;
+	line-height: 35px;
 }
 
 
