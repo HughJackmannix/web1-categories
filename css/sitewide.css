@@ -91,7 +91,7 @@ body {
 }
 
 h3 {
-	font-size: 60px;
+	font-size: 45px;
 	line-height: 80px;
 	font-family: 'Arbutus Slab', serif;
 	text-align: right;
@@ -101,6 +101,7 @@ h3 {
 .pagetitle {
 	text-align: center;
 	font-family: 'Libre Franklin', sans-serif;
+	font-size: 60px;
 
 
 }
