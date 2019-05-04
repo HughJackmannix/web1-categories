@@ -6,6 +6,7 @@ classification: bird
 endangered: false
 predator: false 
 image: /img/grouseprofile.png
+layout: infopage
 ---
 
 The ruffed grouse (Bonasa umbellus) is a small-sized grouse occurring in forests from the Appalachian Mountains across Canada to Alaska. It is non-migratory. It is the only species in the genus Bonasa.
