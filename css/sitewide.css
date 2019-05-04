@@ -108,6 +108,7 @@ a {
     color: #ffffff;
 	line-height: 40px;
 	margin-top: 80px;
+	text-align: center;
 }
 
 .find {
@@ -116,11 +117,13 @@ a {
     font-family: 'Libre Franklin', sans-serif;
 	text-size: 17px;
 	margin-top: 80px;
+	text-align: center;
 }
 
 ul {
     list-style-type: none;
     line-height: 6em;
+	text-align: center;
 }
 
 a {
