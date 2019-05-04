@@ -2,7 +2,7 @@
 title: Eastern Box Turtle
 habitat: mesic
 size: miniscule
-classification: amphibian
+classification: reptile
 endangered: false
 predator: false 
 image: /img/bobcatprofilepic.png
