@@ -78,6 +78,45 @@ body {
 	border: none;
 }
 
+/* HOMEPAGE */
+
+.homecontainer {
+	padding: 1em;
+}
+
+.heading {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #ffffff
+}
+
+.projecttitle {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    color: #ffffff
+}
+
+.find {
+    padding-top: 1em;
+    color: #ffffff;
+    font-family: 'Libre Franklin', sans-serif  
+}
+
+ul {
+    list-style-type: none;
+    line-height: 3em;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Arbutus Slab', serif;
+}
+
+
 /* MY SHIT */
 .grid {
 	padding-top: 4em;
