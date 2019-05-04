@@ -6,6 +6,7 @@ classification: mammal
 endangered: false
 predator: false 
 image: /img/squirrelprofile.png
+layout: infopage
 ---
 Sciurus carolinensis, common name eastern gray squirrel or grey squirrel depending on region, is a tree squirrel in the genus Sciurus. It is native to eastern North America, where it is the most prodigious and ecologically essential natural forest regenerator. Widely introduced to certain places around the world, the eastern gray squirrel in Europe, in particular, is regarded as an invasive species.
 
