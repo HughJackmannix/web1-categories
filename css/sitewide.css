@@ -166,7 +166,7 @@ h3 {
 	font-family: 'Libre Franklin', sans-serif;
 	font-size: 30px;
 }
-}
+
 /* ------------------------------------------------- */
 
 @media (max-width: 332px) {
@@ -231,12 +231,12 @@ h3 {
 	grid-column: 2/4;
 	line-height: 35px;
 }
-}
+
 /* ------------------------------------------------ */
 
 @media (max-width: 332px) {
 	
-infocontainer {
+.infocontainer {
 	display: block;
 	padding: 1.5em;
 	padding-right: 5em;
