@@ -165,6 +165,7 @@ h3 {
 
 .image {
 	grid-column: 1/2;
+	padding-right: 2em;
 }
 
 .content {
