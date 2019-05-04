@@ -111,6 +111,7 @@ h3 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr; 
 	padding: 1.5em;
+	padding-right: 5em;
 }
 
 .name {
