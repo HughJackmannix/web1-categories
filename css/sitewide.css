@@ -105,22 +105,26 @@ h3 {
 	font-size: 30px;
 }
 
-/* START INFOPAGE 
-.profilegrid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+START INFOPAGE 
+
+.infocontainer {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr; 
 }
 
-.animalprofilepic {
-    grid-column: 1/2;
+.name {
+	font-family: 'Arbutus Slab', serif;
+	font-size: 20px;
 }
 
-.description {
-    grid-column: 2/4;
-    padding-left: 20px;
+.image {
+	
 }
 
-*/
+.content {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 16px;
+}
 
 
 
