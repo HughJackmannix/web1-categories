@@ -6,6 +6,7 @@ classification: bird
 endangered: false
 predator: false 
 image: /img/turkeyprofile.png
+layout: infopage
 ---
 
 
