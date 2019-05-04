@@ -181,7 +181,7 @@ media (max-width: 332px) {
 }
 
 .animalname {
-	grid-column: 1/2;
+	
 	
 }
 
@@ -190,14 +190,16 @@ h3 {
 	line-height: 40px;
 	font-family: 'Arbutus Slab', serif;
 	text-align: center;
-	margin-top: 20px;
+	
+	
 	
 }
 
 .pagetitle {
 	text-align: center;
 	font-family: 'Libre Franklin', sans-serif;
-	font-size: 30px;
+	font-size: 20px;
+	line-height: 40px;
 }
 
 	
